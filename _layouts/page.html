@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+  {% include head.html %}
+</head>
+
+<body>
+
+<header>
+  {% include navigation.html %}
+</header>
+
+<div role="main" class="main-text container my-4">
+  {{ content }}
+</div>
+
+<footer>
+  {% include footer.html %}
+</footer>
+
+{% include core_javascript.html %}
+</body>
+</html>
+
+
+

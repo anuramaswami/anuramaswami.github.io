@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ site.name }}</title>
+  {% include head.html %}
+</head>
+
+<body>
+
+<header>
+  {% include navigation.html %}
+</header>
+
+<div role="main" class="main-text container my-4">
+  {{ content }}
+</div>
+
+{% include core_javascript.html %}
+</body>
+</html>
