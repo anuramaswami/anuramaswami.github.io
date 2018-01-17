@@ -23,7 +23,7 @@ a.btn {
   padding: 0.75rem 1rem;
 }
 
-footer a.btn {
+footer a.btn, .home-info a.btn {
   margin: 1.5rem 0.5rem;
 }
 
