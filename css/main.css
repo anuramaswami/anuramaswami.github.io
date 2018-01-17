@@ -8,6 +8,7 @@ nav a {
 }
 
 nav a:hover {
+  color: white;
   background-color: dodgerblue;
   border-radius: 0.5rem;
 }
@@ -16,10 +17,6 @@ nav li.dropdown:hover div.dropdown-menu {
   position: absolute;
   display: block;
   margin-top: 0;
-}
-
-nav .current {
-  color: white;
 }
 
 /* Buttons */
