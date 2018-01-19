@@ -18,8 +18,8 @@ This documentation is meant to provide all the resources and information you nee
 ### Website Structure
 This section details where to find website files.
 #### _includes
-* Any files used in more than one page are kept here.
-* Example: footer and navigation.
+* Any files used in more than one page are kept here. 
+* Example: footer and navigation. 
 * Edits to these files change multiple pages
 #### _layouts
 * These files provide basic structure of web pages.
@@ -65,13 +65,39 @@ This section details where to find website files.
 1. Login to [github](https://github.com/anuramaswami/anuramaswami.github.io) (you're probably already here)
 2. Go to file you wish to edit (file structure explained [here](website-structure))
 3. Click on the edit button ![alt text](https://anuramaswami.github.io/images/readme/edit-button.png "Edit Button")
+	* Page view of edit button
 ![alt text](https://anuramaswami.github.io/images/readme/how-to-edit-1.png "How to edit part 1")
+	* Up close page view of edit button
 ![alt text](https://anuramaswami.github.io/images/readme/how-to-edit-2.png "How to edit part 2")
+4. Make changes
+5. Go to bottom of page, give brief description of changes you made, and press the 'commit changes' button
 
 ### Understanding Website Code
-This website is built with HTML, CSS, and JavaScript. It is extensively written in HTML. Any custom CSS and JavaScript provided with
-* [What is Markdown?] (https://en.wikipedia.org/wiki/Markdown)
-* [Markdown CheatSheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+This website is built with HTML, CSS, and JavaScript. Bootstrap is used extensively in the HTML. Jekyll is used for website maintainability. Most edits you will make will be to the HTML. Bootstrap is used extensively in the HTML for the look and feel of the website. There is some custom CSS and JavaScript as well.
+#### HTML, CSS, JavaScript
+* HTML
+	* HTML makes up the content (words, pictures, etc) of a webpage. [HTML Wiki](https://en.wikipedia.org/wiki/HTML)
+	* Most edits you will make will be to the HTML. [HTML Cheatsheet](http://htmlcheatsheet.com)
+* CSS
+	* CSS determines how the website looks [CSS Wiki](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+	* On this website, styling is mainly done in HTML with bootstrap classes.
+	* Some custom styles written in css folder. [CSS Cheatsheet](http://htmlcheatsheet.com/css/)
+* JavaScript
+	* JavaScript makes websites interactive. Example: the navigation bar uses it. [JS Wiki](https://en.wikipedia.org/wiki/JavaScript)
+	* Like CSS, almost all JavaScript is done in HTML with bootstrap classes.
+	* Some custom JavaScript may be written in js folder. [JS Cheatsheet](http://htmlcheatsheet.com/js/)
+#### Bootstrap
+* Bootstrap is a library for quickly developing beautiful websites [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* It provides CSS and JavaScript classes, used extensively in this website's HTML.
+* If you really want to understand Bootstrap, [here is a medium length Lynda course](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-Essential-Training/372545-2.html)
+* [Here is a bootstrap cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+#### Jekyll
+* Jekyll is a static site generator
+	* In English: Jekyll allows this website to be broken up into maintainable chunks.
+* Jekyll is not too important to this website, but if you want to learn more, [here is the documentation](https://jekyllrb.com/docs/home/)
+#### Markdown
+* Markdown is an easy to read formatting language used in the ReadMe file. [Wiki Reference] (https://en.wikipedia.org/wiki/Markdown)
+* Cheatsheet on markdown code. [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 
 ### Domain Name and Hosting Explanation
 
