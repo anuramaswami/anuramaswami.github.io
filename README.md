@@ -1,12 +1,12 @@
 # Anu Ramaswami Website Documentation
-This documentation is meant to provide all the resources and information you need to edit Anu's website. You are able to edit this README documentation file just as any other file, as detailed in the [Editing Website](#editing-website) section
+This documentation is meant to provide all the resources and information you need to edit Anu's website. You are able to edit this README documentation file just as any other file, as detailed in the [Editing Website](#editing-website) section. If you are lost in the files, the [Website Structure](#website-structure) section details where to find files.
 
 ### Sections
 * [Core Resources](#core-resources)
 * [Website Structure](#website-structure)
 * [Editing Website](#editing-website)
 * [Understanding Website Code](#understanding-website-code)
-* [Domain Name and Hosting Explanation](#domain-name-and-hosting-explanation)
+* [Domain Name and Hosting](#domain-name-and-hosting)
 
 ### Core Resources
 * [Github](https://github.com) - Website files hosted here, edits made here
@@ -99,5 +99,15 @@ This website is built with HTML, CSS, and JavaScript. Bootstrap is used extensiv
 * Markdown is an easy to read formatting language used in the ReadMe file. [Wiki Reference] (https://en.wikipedia.org/wiki/Markdown)
 * Cheatsheet on markdown code. [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 
-### Domain Name and Hosting Explanation
+### Domain Name and Hosting
+This section explains how these files hosted on GitHub translate to 'anuramaswami.com'
+#### How does it work?
+* The domain name 'anuramaswami.com' was purchased through [Network Solutions](https://www.networksolutions.com/index.jsp)
+* On Network Solutions, domain points to [CloudFlare](https://www.cloudflare.com), which is used for free DNS, speed, and security support.
+* CloudFlare points to [Github Pages](https://pages.github.com), where this site is actually hosted by Github.
+#### Wow, you suck at explaining this
+* Well, this is kind of complicated. Here are some resources to understand this better.
+	* [Fairly easy-to-understand guide on the process I tried to explain](https://medium.freecodecamp.org/an-illustrated-guide-for-setting-up-your-website-using-github-cloudflare-5a7a11ca9465)
+	* [Help: Using a custom domain with Github Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
+	* Simply google the question you have, there are many resources to understand Github Pages, CloudFlare, and Network Solutions
 
