@@ -65,10 +65,12 @@ This section details where to find website files.
 1. Login to [github](https://github.com/anuramaswami/anuramaswami.github.io) (you're probably already here)
 2. Go to file you wish to edit (file structure explained [here](website-structure))
 3. Click on the edit button ![alt text](https://anuramaswami.github.io/images/readme/edit-button.png "Edit Button")
-	* Page view of edit button
+
+Page view of edit button
 
 ![alt text](https://anuramaswami.github.io/images/readme/how-to-edit-1.png "How to edit part 1")
-	* Up close page view of edit button
+
+Up close page view of edit button
 
 ![alt text](https://anuramaswami.github.io/images/readme/how-to-edit-2.png "How to edit part 2")
 
