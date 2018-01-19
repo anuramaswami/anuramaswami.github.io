@@ -64,9 +64,9 @@ This section details where to find website files.
 #### How do I edit a file?
 1. Login to [github](https://github.com/anuramaswami/anuramaswami.github.io) (you're probably already here)
 2. Go to file you wish to edit (file structure explained [here](website-structure))
-3. Click on the edit button ![alt text](https://anuramaswami.com/images/readme/edit-button.png "Edit Button")
-![alt text](https://anuramaswami.com/images/readme/how-to-edit-1.png "How to edit part 1")
-![alt text](https://anuramaswami.com/images/readme/how-to-edit-2.png "How to edit part 2")
+3. Click on the edit button ![alt text](https://anuramaswami.github.io/images/readme/edit-button.png "Edit Button")
+![alt text](https://anuramaswami.github.io/images/readme/how-to-edit-1.png "How to edit part 1")
+![alt text](https://anuramaswami.github.io/images/readme/how-to-edit-2.png "How to edit part 2")
 
 ### Understanding Website Code
 This website is built with HTML, CSS, and JavaScript. It is extensively written in HTML. Any custom CSS and JavaScript provided with
