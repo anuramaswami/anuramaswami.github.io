@@ -20,6 +20,7 @@ This section details where to find website files.
 #### _includes
 * Any files used in more than one page are kept here. 
 * Example: footer and navigation. 
+* The CDN references to Bootstrap are found in the 'head.html' and 'core-javascript.html' files. 
 * Edits to these files change multiple pages
 #### _layouts
 * These files provide basic structure of web pages.
