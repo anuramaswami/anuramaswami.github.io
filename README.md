@@ -71,6 +71,7 @@ This section details where to find website files.
 	* Up close page view of edit button
 
 ![alt text](https://anuramaswami.github.io/images/readme/how-to-edit-2.png "How to edit part 2")
+
 4. Make changes
 5. Go to bottom of page, give brief description of changes you made, and press the 'commit changes' button
 
