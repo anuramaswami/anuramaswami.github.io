@@ -55,7 +55,7 @@ This section details where to find website files.
 
 ### Editing Website
 #### What files should I edit?
-* 95% of the time, only edit the following files (there may be new files added or different file names that this documentation is not updated on)
+* 95% of the time, only edit the following files (hopefully documentation is up to date with files)
 	* index.html (Home page)
 	* news-and-media.html (News and Media page)
 	* publications.html (Publications page)
@@ -66,8 +66,10 @@ This section details where to find website files.
 2. Go to file you wish to edit (file structure explained [here](website-structure))
 3. Click on the edit button ![alt text](https://anuramaswami.github.io/images/readme/edit-button.png "Edit Button")
 	* Page view of edit button
+
 ![alt text](https://anuramaswami.github.io/images/readme/how-to-edit-1.png "How to edit part 1")
 	* Up close page view of edit button
+
 ![alt text](https://anuramaswami.github.io/images/readme/how-to-edit-2.png "How to edit part 2")
 4. Make changes
 5. Go to bottom of page, give brief description of changes you made, and press the 'commit changes' button
